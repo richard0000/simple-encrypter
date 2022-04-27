@@ -14,7 +14,7 @@ Send a POST request to the `/api/encrypt` endpoint with a payload matching the f
 ```
 
 ## Installation
-- Clone this repository locally
+- Clone this repository locally.
 - Run `bundle install`
 - Run `rails db:migrate`
 - Run `rails s`
